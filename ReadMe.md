@@ -22,7 +22,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CobyNL&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact"align="center" /></div>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CobyNL)](https://github.com/CobyNL/github-readme-stats)
 
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cobystroby&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=cobystroby&redirect=true)  -->
 
