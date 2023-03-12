@@ -19,7 +19,7 @@
 
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CobyNL&theme=dark&hide_border=true"align="center" /></div>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CobyNL&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact"align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CobyNL&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"align="center" /></div>
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CobyNL)](https://github.com/CobyNL/github-readme-stats)
