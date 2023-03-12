@@ -1,7 +1,7 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+ <-- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE"> -->
 </picture>
 
 <div align="center" /><div>
@@ -14,11 +14,11 @@
 
 <div align="center" /><div>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=CobyNL&theme=dark&hide_border=true&include_all_commits=false&count_private=false"align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=CobyNL&theme=dark&hide_border=true&include_all_commits=false&count_private=true"align="center" /></div>
 
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CobyNL&theme=dark&hide_border=true"align="center" /></div>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CobyNL&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact"align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CobyNL&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"align="center" /></div>
 <br/>
 
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cobystroby&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=cobystroby&redirect=true)  -->
