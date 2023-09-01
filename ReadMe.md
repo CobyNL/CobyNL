@@ -30,15 +30,15 @@
 
 ###
 
-<br clear="both">
+<!-- <br clear="both">
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/79209629?v=4"  />
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/79209629?v=4"  /> -->
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CobyNL&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true" height="110" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CobyNL&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true" height="110" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CobyNL&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CobyNL&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
