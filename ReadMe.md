@@ -1,31 +1,50 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
-</picture>
+<div align="center">
+  <a href="https://discordapp.com/users/458643079965179904" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="185" height="35" alt="discord logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="185" height="35" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="185" height="35" alt="youtube logo"  />
+  <a href="coby_h_" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="185" height="35" alt="twitch logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="185" height="35" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="185" height="35" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="185" height="35" alt="twitter logo"  />
+</div>
 
-<div align="center" /><div>
+###
 
-<div align="center" /><div>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
+  <img width="150" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
+  <img width="150" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
+  <img width="150" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
+  <img width="150" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
+  <img width="150" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="35" alt="lua logo"  />
+</div>
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/invite/ZZeJxzqWb4) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Coby_H_) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Coby_H_) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Coby_H_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCa7zJYJ_UHs67ZqaIxLuj9A) 
+###
 
----
+<br clear="both">
 
-<div align="center" /><div>
+<img align="right" height="190" src="https://avatars.githubusercontent.com/u/79209629?v=4"  />
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=CobyNL&theme=dark&hide_border=true&include_all_commits=false&count_private=true"align="center" /></div>
+###
 
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CobyNL&theme=dark&hide_border=true"align="center" /></div>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=CobyNL&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CobyNL&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true" height="150" alt="languages graph"  />
+</div>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CobyNL&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"align="center" /></div>
-<br/>
+###
 
-<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cobystroby&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=cobystroby&redirect=true)  -->
+<br clear="both">
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=cobystroby&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true" /></div>
-<br/>
+<img src="https://raw.githubusercontent.com/CobyNL/CobyNL/output/snake.svg" alt="Snake animation" />
 
----
-[![](https://visitcount.itsvg.in/api?id=CobyNL&icon=7&color=12)](https://visitcount.itsvg.in)
-
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/INeedMoneyCuuby?country.x=BE&locale.x=nl_NL) 
+###
