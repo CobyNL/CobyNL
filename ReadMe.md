@@ -13,7 +13,7 @@
 </div>
 
 ###
-
+<!--
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
   <img width="110" />
@@ -27,7 +27,7 @@
   <img width="110" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="35" alt="lua logo"  />
 </div>
-
+-->
 ###
 
 <!-- <br clear="both">
